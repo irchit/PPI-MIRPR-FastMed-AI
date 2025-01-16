@@ -1,1 +1,6 @@
 # PPI-MIRPR-FastMed-AI
+
+- AI Model Flask (MIRPR): <a href="https://github.com/irchit/ai-model/">see here</a>
+- APP Next.js (PPI): <a href="https://github.com/irchit/fastmed-ai">see here</a>
+- RestAPI Spring (PPI) <a href="https://github.com/irchit/RestAPI-FastMed-AI">see here</a>
+- Business Part (PPI) <a href="https://miro.com/app/board/uXjVLRYR_ww=/">see here</a>
